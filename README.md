@@ -1,5 +1,2 @@
-### IR sensor initial calibration data and graph
-- I recorded some data points comparing output with distance, this link will bring you to the Google Sheets file where I documented it (lmk if it you can't see it for any reason):
-(https://docs.google.com/spreadsheets/d/1bdNRokLgOpQ6w1pTwrIrAo2OtLmEZph0NnxnSCPnY2w/edit?usp=sharing)
-- When re-testing the IR sensor in a classroom in Concordia, the results were different than when I tested it in my house so if you don't get the same readings as in the Google sheets that might be why
-
+# Technical assignment 1: 
+link to google docs: (https://docs.google.com/document/d/13WDj0RIKo1Wg1Y88ynD6QmGeqOb-iNPxxf7EsQl0qrQ/edit?tab=t.0)
